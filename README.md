@@ -18,6 +18,6 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </span>
 <h4> Social media</h4>
-<a href="www.linkedin.com/in/sergiolopezvilar">
+<a href="https://www.linkedin.com/in/sergiolopezvilar/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
